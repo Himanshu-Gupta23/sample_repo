@@ -1,1 +1,1 @@
-# smaple_repo
+# sample_repo
